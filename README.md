@@ -93,8 +93,8 @@ Pour mener à bien ce projet, plusieurs outils ont été mobilisés :
 - **Visual Studio Code (VSCode)** : pour le lien entre la base donnée et l'application.
 - **StackBlitz** : pour la création de l'aperçu de l'interface utilisateur.
 - **mermaid** : pour la création des schémas MCD et UML.
-  - 
-### Crédits
+
+## Crédits
 
 > **Auteur du rapport technique** : Jean Léandre TIEMTORE, Ingénieur de données
 > 
