@@ -16,7 +16,7 @@ EduTrack ERP est un logiciel de gestion complet conçu pour simplifier les tâch
 2. [Principales Fonctionnalités](#principales-fonctionnalités)
 3. [Architecture Système](#architecture-système)
 4. [Description des Modules](#description-des-modules)
-5. [Technologies Utilisées](#technologies-utilisées)
+5. [Schématisation des processus](#schématisation-des-processus)
 6. [Améliorations Futures](#améliorations-futures)
 7. [Outils utilisés](#outils-utilisés)
 
@@ -68,6 +68,44 @@ Le système EduTrack ERP repose sur une architecture modulaire comprenant les co
 4. **Planificateur d'Emplois du Temps :**
    - Planification automatisée sans conflit.
    - Interface conviviale avec glisser-déposer.
+
+
+## Schématisation des processus
+
+### Modèle Conceptuel de Données (MCD)
+Le MCD d'EduTrack représente les principales entités et leurs relations dans le système. Voici une explication des principales entités :
+
+- **Étudiant :** Représente les informations personnelles et académiques des étudiants.
+- **Cours :** Définit les matières enseignées, associées à un ou plusieurs enseignants.
+- **Présence :** Permet de suivre la participation des étudiants à chaque cours.
+- **Personnel :** Contient les informations sur les enseignants et le personnel administratif.
+- **Emploi du Temps :** Gère la planification des cours et des ressources associées.
+
+**Diagramme :**
+Le diagramme MCD illustre ces entités et leurs relations. Par exemple :
+- Une entité "Étudiant" est liée à plusieurs "Présences".
+- Une entité "Cours" est associée à un ou plusieurs "Étudiants" et "Personnel".
+
+### Diagrammes UML
+#### Diagramme de Cas d'Utilisation
+Ce diagramme met en évidence les principaux acteurs et leurs interactions avec le système :
+
+- **Administrateur :** Gestion des utilisateurs, configuration des modules.
+- **Enseignant :** Gestion des cours, consultation des présences.
+- **Étudiant :** Accès à l'emploi du temps et aux résultats.
+
+#### Diagramme de Séquence
+Un exemple de scénario pour le module de présence :
+1. L'étudiant scanne son badge.
+2. Le système vérifie les informations et enregistre la présence.
+3. Un enseignant peut consulter ces données via l'interface.
+
+#### Diagramme de Classes
+Le diagramme de classes détaille les différentes classes implémentées dans le projet, telles que :
+- **Classe Étudiant :** Avec attributs (nom, matricule, etc.) et méthodes (inscrire, consulter résultats).
+- **Classe Cours :** Avec attributs (intitulé, code) et méthodes (assigner enseignant, générer rapport).
+
+Ces diagrammes permettent de visualiser clairement la structure et les interactions du système, facilitant ainsi le développement et la maintenance.
 
 ## Améliorations Futures
 - Intégration avec des plateformes d'apprentissage en ligne.
