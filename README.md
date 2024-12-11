@@ -80,6 +80,8 @@ Le MCD d'EduTrack représente les principales entités et leurs relations dans l
 - **Présence :** Permet de suivre la participation des étudiants à chaque cours.
 - **Personnel :** Contient les informations sur les enseignants et le personnel administratif.
 - **Emploi du Temps :** Gère la planification des cours et des ressources associées.
+![mermaid-MCD](https://github.com/user-attachments/assets/ae408c76-cf89-4bcf-a24d-9ade33460e93)
+
 
 **Diagramme :**
 Le diagramme MCD illustre ces entités et leurs relations. Par exemple :
@@ -93,17 +95,20 @@ Ce diagramme met en évidence les principaux acteurs et leurs interactions avec 
 - **Administrateur :** Gestion des utilisateurs, configuration des modules.
 - **Enseignant :** Gestion des cours, consultation des présences.
 - **Étudiant :** Accès à l'emploi du temps et aux résultats.
-
+ 
 #### Diagramme de Séquence
 Un exemple de scénario pour le module de présence :
 1. L'étudiant scanne son badge.
 2. Le système vérifie les informations et enregistre la présence.
 3. Un enseignant peut consulter ces données via l'interface.
+![mermaid-diagram de sequence](https://github.com/user-attachments/assets/5612cc4b-be4e-45ef-98b1-e305d513234e)
 
 #### Diagramme de Classes
 Le diagramme de classes détaille les différentes classes implémentées dans le projet, telles que :
 - **Classe Étudiant :** Avec attributs (nom, matricule, etc.) et méthodes (inscrire, consulter résultats).
 - **Classe Cours :** Avec attributs (intitulé, code) et méthodes (assigner enseignant, générer rapport).
+![mermaid-diagram de classe](https://github.com/user-attachments/assets/f4bec9a7-ba67-49f7-893b-66808761ea56)
+
 
 Ces diagrammes permettent de visualiser clairement la structure et les interactions du système, facilitant ainsi le développement et la maintenance.
 
