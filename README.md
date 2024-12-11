@@ -52,7 +52,6 @@ Le système EduTrack ERP repose sur une architecture modulaire comprenant les co
    - Requêtes optimisées pour une récupération et une mise à jour des données en temps réel.
 
 
-
 ## Description des Modules
 1. **Gestion des Étudiants :**
    - Opérations CRUD sur les dossiers des étudiants.
@@ -69,10 +68,6 @@ Le système EduTrack ERP repose sur une architecture modulaire comprenant les co
 4. **Planificateur d'Emplois du Temps :**
    - Planification automatisée sans conflit.
    - Interface conviviale avec glisser-déposer.
-
-5. **Outils de Reporting :**
-   - Génération de rapports PDF et CSV.
-   - Visualisation des données avec des graphiques et des diagrammes.
 
 ## Améliorations Futures
 - Intégration avec des plateformes d'apprentissage en ligne.
