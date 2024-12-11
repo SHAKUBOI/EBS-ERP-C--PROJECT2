@@ -95,7 +95,16 @@ Ce diagramme met en évidence les principaux acteurs et leurs interactions avec 
 - **Administrateur :** Gestion des utilisateurs, configuration des modules.
 - **Enseignant :** Gestion des cours, consultation des présences.
 - **Étudiant :** Accès à l'emploi du temps et aux résultats.
- 
+![UML ELEVE](https://github.com/user-attachments/assets/a9913dec-11a7-4a83-b126-28fa84826dfc)
+##### Diagramme UML ELEVE
+![UML PARENTS](https://github.com/user-attachments/assets/abdc711d-4d20-4c24-9421-72462102f90d)
+##### Diagramme UML PARENT
+![UML Professeur](https://github.com/user-attachments/assets/d24d51ec-d006-4fd6-8ba8-e7a7eab79268)
+##### Diagramme UML PROFESSEUR
+![UML CPE](https://github.com/user-attachments/assets/960094a8-a47f-4bba-9fb2-00e7af9d5a72)
+##### Diagramme UML CPE
+ ![UML COMPTABLE](https://github.com/user-attachments/assets/614b9ac6-937a-46d7-bb6e-2823477b11f7)
+##### Diagramme UML COMPTABLE
 #### Diagramme de Séquence
 Un exemple de scénario pour le module de présence :
 1. L'étudiant scanne son badge.
