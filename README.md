@@ -15,11 +15,11 @@ EduTrack ERP est un logiciel de gestion complet conçu pour simplifier les tâch
 1. [Aperçu du Projet](#aperçu-du-projet)
 2. [Principales Fonctionnalités](#principales-fonctionnalités)
 3. [Architecture Système](#architecture-système)
-4. [Technologies Utilisées](#technologies-utilisées)
-5. [Guide d'Installation](#guide-dinstallation)
-6. [Description des Modules](#description-des-modules)
-7. [Améliorations Futures](#améliorations-futures)
-8. [Contributeurs](#contributeurs)
+4. [Description des Modules](#description-des-modules)
+5. [Technologies Utilisées](#technologies-utilisées)
+6. [Améliorations Futures](#améliorations-futures)
+7. [Outils utilisés](#outils-utilisés)
+
 
 ## Aperçu du Projet
 EduTrack vise à répondre aux besoins essentiels des écoles et collèges en intégrant diverses fonctions telles que la gestion des informations sur les étudiants, le suivi des présences, la gestion du personnel et la planification dans une plateforme unifiée.
@@ -81,7 +81,7 @@ Le système EduTrack ERP repose sur une architecture modulaire comprenant les co
 - Sécurité renforcée des données grâce au chiffrement.
 
 
-### Outils Utilisés
+## Outils Utilisés
 
 Pour mener à bien ce projet, plusieurs outils ont été mobilisés :
 
