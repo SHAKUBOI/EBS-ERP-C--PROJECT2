@@ -127,6 +127,14 @@ Le diagramme de classes détaille les différentes classes implémentées dans l
 
 Ces diagrammes permettent de visualiser clairement la structure et les interactions du système, facilitant ainsi le développement et la maintenance.
 
+## Développement de l'ERP EduTrack
+
+La plateforme EduTrack a été pensée et développée minutieusement par notre équipe afin que ce service soit complet le jour du déploiement; celà passe d'abord par le développement du Backend suivi de l'adaptation Frontend et de l'Intrface Utilisateur. Vous retrouverez dans les fichiers du projet le code du Backend sur lequel nous allons revenir ici.
+
+# *Omar met sa partie*
+
+
+
 ## Améliorations Futures
 - Intégration avec des plateformes d'apprentissage en ligne.
 - Application mobile pour des mises à jour en temps réel.
