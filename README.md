@@ -159,6 +159,14 @@ La plateforme EduTrack a été pensée et développée minutieusement par notre 
 ## Développement du système de pointage
 
 
+![pointage Acces autorisé ](https://github.com/user-attachments/assets/d5af6e9f-197c-48d4-b58a-6b087e05ef72)
+#### acces autorisé
+
+![pointage acces refusé](https://github.com/user-attachments/assets/8d42fea5-7bc4-43dc-8048-e517207145b1)
+#### acces refusé
+
+![pointage code incorrect](https://github.com/user-attachments/assets/a5a5d874-b1e2-414b-8aa8-be49a1d05bbf)
+#### Badge inconnu
 
 
 ## Améliorations Futures
@@ -183,10 +191,10 @@ Pour mener à bien ce projet, plusieurs outils ont été mobilisés :
 
 ## Crédits
 
-> **Auteur du rapport technique** : Jean Léandre TIEMTORE, Ingénieur Logiciel
+> **Auteurs du rapport technique** : Jean Léandre TIEMTORE, Omar EL GHAZAL, Ingénieurs Logiciel
 > 
 > 
-> Responsable de la conception du système de pointage pour le projet **"EduTrack”**.
+> CO-responsables de la conception de l'ERP et du système de pointage pour le projet **"EduTrack”**.
 > 
 
 ---
