@@ -149,7 +149,7 @@ Pour mener à bien ce projet, plusieurs outils ont été mobilisés :
 
 ## Crédits
 
-> **Auteur du rapport technique** : Jean Léandre TIEMTORE, Ingénieur de données
+> **Auteur du rapport technique** : Jean Léandre TIEMTORE, Ingénieur Logiciel
 > 
 > 
 > Responsable de la conception du système de pointage pour le projet **"EduTrack”**.
