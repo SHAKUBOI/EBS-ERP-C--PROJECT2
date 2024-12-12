@@ -357,7 +357,7 @@ De ce fait, elle permettra d’appeler les fonctions des menus (celle qui contie
 ![pointage acces refusé](https://github.com/user-attachments/assets/8d42fea5-7bc4-43dc-8048-e517207145b1)
 #### acces refusé
 
-![pointage code incorrect](https://github.com/user-attachments/assets/a5a5d874-b1e2-414b-8aa8-be49a1d05bbf)
+![Badge inconnu](https://github.com/user-attachments/assets/7c6411ca-25fb-49b7-8f28-5b56e1eaa320)
 #### Badge inconnu
 
 
