@@ -131,7 +131,33 @@ Ces diagrammes permettent de visualiser clairement la structure et les interacti
 
 La plateforme EduTrack a été pensée et développée minutieusement par notre équipe afin que ce service soit complet le jour du déploiement; celà passe d'abord par le développement du Backend suivi de l'adaptation Frontend et de l'Intrface Utilisateur. Vous retrouverez dans les fichiers du projet le code du Backend sur lequel nous allons revenir ici.
 
-# *Omar met sa partie*
+#### Accueil
+
+-------
+#### Espace élève
+
+------
+#### Espace Parent
+
+------
+#### Espace professeur
+
+--------
+#### Espace CPE
+
+--------
+
+#### Espace comptable
+
+![Paiement récents](https://github.com/user-attachments/assets/2f156d31-dc16-4d76-a7d7-6027e08ec6cc)
+##### Paiements récents
+
+![Bilan Financier](https://github.com/user-attachments/assets/3f1ea94d-033c-4745-9f42-d79d402f22b7)
+##### Bilan Financier
+
+
+## Développement du système de pointage
+
 
 
 
